@@ -1,3 +1,5 @@
+//  Solution for a variation of Project Euler Problem 67
+
 #import <Foundation/Foundation.h>
 
 int main(int argc, const char * argv[]) {
